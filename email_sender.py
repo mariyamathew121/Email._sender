@@ -7,9 +7,9 @@ email_sender='mariyamathew@gmail.com'
 email_password=password
 email_receiver=" wimok24224@carspure.com"
 
-subject="placement training"
+subject="meeting remainder"
 body="""
-placement training is happenining on tommorrow please join on correct time
+hai hope u re doing gud.the meeting will be at 2pm today.see u there.
 """
 em=EmailMessage()
 em['From']=email_sender
